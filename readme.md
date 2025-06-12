@@ -151,9 +151,8 @@ Authorization: Bearer YOUR_API_KEY
 ---
 
 ## Additional Notes
-- All endpoints require proper API key authorization.
+- All endpoints require proper API key authorization *(except for /v1/models)*.
 - Future updates will include support for `max_tokens`, `temperature`, and other parameters.
-- Utilize `/v1/models` to discover available models and their capabilities.
 
 ---
 
